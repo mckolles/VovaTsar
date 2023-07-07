@@ -1,0 +1,25 @@
+.App{
+    padding:50px;
+    
+    
+}
+.competitors_table{
+    color: black;
+        margin: 20px auto; /* Отступы по вертикали 20px, выравнивание по центру */
+        text-align: center;
+      }
+      
+      table {
+        border-collapse: collapse; /* Объединение границ ячеек */
+        width: 100%;
+      }
+      
+      th, td {
+        padding: 10px; /* Отступы внутри ячеек */
+        border-bottom: 1px solid #ccc; /* Разделительная полоса снизу */
+      }
+      h1{
+        color:rgba(75, 10, 53, 0.514);
+        margin-bottom: 50px;
+}
+
